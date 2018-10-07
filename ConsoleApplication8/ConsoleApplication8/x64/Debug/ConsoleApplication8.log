@@ -1,0 +1,5 @@
+﻿  ConsoleApplication8.cpp
+e:\dima\c++\homework2.cpp(165): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+e:\dima\c++\homework2.cpp(167): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+e:\dima\c++\homework2.cpp(169): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication8.vcxproj -> C:\Users\Andrey\source\repos\ConsoleApplication8\x64\Debug\ConsoleApplication8.exe
